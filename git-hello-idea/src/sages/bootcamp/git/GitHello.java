@@ -5,5 +5,4 @@ package sages.bootcamp.git;
  */
 public class GitHello {
 
-
 }
