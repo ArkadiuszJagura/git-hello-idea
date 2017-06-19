@@ -6,5 +6,6 @@ package sages.bootcamp.git;
 public class GitHelloIdea {
     public static void main(String[] args) {
         System.out.println("Hello hello");
+        System.out.println("Hello 3");
     }
 }
